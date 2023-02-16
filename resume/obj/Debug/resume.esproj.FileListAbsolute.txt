@@ -1,2 +1,0 @@
-C:\Users\kenme\source\repos\kenmendez.github.io\resume\obj\Debug\resume.esproj.SuggestedBindingRedirects.cache
-C:\Users\kenme\source\repos\kenmendez.github.io\resume\obj\Debug\resume.esproj.CoreCompileInputs.cache
