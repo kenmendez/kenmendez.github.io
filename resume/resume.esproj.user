@@ -7,7 +7,7 @@
   "type": "chrome",
   "request": "launch",
   "url": "http://localhost:3000",
-  "webRoot": "C:\\Users\\kenme\\source\\repos\\kenmendez.github.io\\resume"
+  "webRoot": "C:\\Users\\Family\\source\\repos\\kenmendez\\kenmendez.github.io\\resume"
 }</LaunchJsonTarget>
   </PropertyGroup>
 </Project>
